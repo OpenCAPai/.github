@@ -21,18 +21,6 @@ We leverage the full power of the SAP Business Technology Platform (BTP):
 
 ---
 
-## 📂 Repository Structure
-
-All projects within this organization follow a strict architectural pattern:
-
-| Repository | Description |
-| :--- | :--- |
-| `cap-ai-boilerplate` | A foundational template for CAP + AI Core integration. |
-| `cap-ai-rag-pattern` | Reference implementation of Retrieval-Augmented Generation using HANA Vector Engine. |
-| `cap-ai-middleware` | Utilities for managing AI Core deployment cycles and grounding. |
-
----
-
 ## 🚀 Getting Started
 
 To utilize the resources in this organization, ensure you have:
@@ -49,4 +37,5 @@ We welcome contributions from the SAP community. Please ensure that all pull req
 
 ---
 
-© 2024 OpenCAPai – Empowering Enterprise Intelligence.
+© 2026 OpenCAPai - Empowering Enterprise Intelligence.
+
